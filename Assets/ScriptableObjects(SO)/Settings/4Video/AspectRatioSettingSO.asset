@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f602bfb77fd154aa151f6b570567c0, type: 3}
+  m_Name: AspectRatioSettingSO
+  m_EditorClassIdentifier: 
+  ppParamNam: AspectRatio
+  theList:
+  - {fileID: 11400000, guid: e5d1fc7b0b2dda44ebf36a1283f6cecf, type: 2}
+  - {fileID: 11400000, guid: e9ee3ed798d12814fba64f59ff39eb97, type: 2}
+  - {fileID: 11400000, guid: 44d6497ec410fdd468ec6f78c2cee58d, type: 2}
+  defPtrVal: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e187be2cc7e473d42bef4be1f0fccbf4, type: 3}
+  m_Name: CurrentResolutionSettingSO
+  m_EditorClassIdentifier: 
+  ppParamNam: Resolution
+  theList:
+  - {fileID: 11400000, guid: 137dc495536fc7f4a92236310d0d97bc, type: 2}
+  - {fileID: 11400000, guid: 915f2531b1d435e46a17071f91ce2add, type: 2}
+  - {fileID: 11400000, guid: d7ab722fa59f7cd48b317a3e8f0f3500, type: 2}
+  - {fileID: 11400000, guid: c9a1ca6b097f3754583a00343af65b25, type: 2}
+  - {fileID: 11400000, guid: 761e48e43c735d3409f81ec86c2f7e21, type: 2}
+  - {fileID: 11400000, guid: ae8ce88e4b2a04444a725cb41276e4a6, type: 2}
+  defPtrVal: 0

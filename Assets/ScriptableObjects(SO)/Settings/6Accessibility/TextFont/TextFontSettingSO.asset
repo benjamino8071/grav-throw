@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61df12a91472e4e4696961397ca9472d, type: 3}
+  m_Name: TextFontSettingSO
+  m_EditorClassIdentifier: 
+  ppParamNam: TextFont
+  theList:
+  - {fileID: 11400000, guid: 9e134ac5769b6ed499c8fe314d6964c4, type: 2}
+  - {fileID: 11400000, guid: cf13c4d554582764dbd9b97ace4fdeed, type: 2}
+  defPtrVal: 0
